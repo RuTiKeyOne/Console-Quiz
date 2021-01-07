@@ -1,8 +1,4 @@
 # Console-quiz
-Very simple console quiz.
+A simple console game that was written at the beginning of learning the C#.
 
-I learn C# Now.
-
-This is my code.
-
-25.04.2020;
+Date of writing 25.04.2020.
